@@ -1,6 +1,11 @@
 {
-    "version": "1.4.0",
-    "releaseDate": "2025-09-17",
-    "updateUrl": "http://localhost:8000/remote-version.json",
-    "downloadUrl": "http://localhost:8000/AdQuoteSoftware_v1.4_Portable.zip"
+  "version": "1.4.0",
+  "releaseDate": "2025-09-17",
+  "updateUrl": "https://wangyiwan37.github.io/ad-quote-software-updates/remote-version.json",
+  "downloadUrl": "https://wangyiwan37.github.io/ad-quote-software-updates/AdQuoteSoftware_v1.4_Portable.zip",
+  "changelog": [
+    "新增功能：材料拖拽排序",
+    "优化界面响应速度",
+    "修复已知bug"
+  ]
 }
